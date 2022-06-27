@@ -1,0 +1,22 @@
+{
+  "name": "jovel_amego",
+  "version": "1.0.0",
+  "description": "This is a data type validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovelLabay/jovel_amego.git"
+  },
+  "keywords": [
+    "jovel_amego"
+  ],
+  "author": "jovellabay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JovelLabay/jovel_amego/issues"
+  },
+  "homepage": "https://github.com/JovelLabay/jovel_amego#readme"
+}
